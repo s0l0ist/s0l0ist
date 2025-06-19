@@ -7,7 +7,7 @@ usually in Rust 🦀, but not always.
 
 ### [🧬 ferroid](https://github.com/s0l0ist/ferroid)
 
-Snowflake-style ID generator in Rust. Fast, lock-free, and production-ready for
+A ULID or Snowflake-style ID generator in Rust. Fast, lock-free, and production-ready for
 distributed systems.
 
 - Designed for high-throughput ID generation with minimal contention
